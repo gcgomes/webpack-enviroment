@@ -6,5 +6,4 @@ function App() {
 }
 
 const container = document.getElementById('root');
-
 container ? ReactDOM.render(<App />, container) : null;
